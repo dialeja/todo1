@@ -3,4 +3,9 @@
     <button (click)="count = count + 1" >Click me</button>
 
     {{count}}
-    <img [src]="imgSource">
+    <img [src]="imageSource">
+   
+<br>
+   
+    <button (click)="enabled = !enabled" >Enable/Disable</button>
+<input type="text" [disabled]="enabled">

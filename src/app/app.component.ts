@@ -9,5 +9,7 @@ export class AppComponent {
   title = 'my application';
   autor = 'Diana Leon';
   count = 0;
-  imageSource='./../favicon.ico';
+  imageSource='../../favicon.ico';
+  enable='true';
+  
 }
