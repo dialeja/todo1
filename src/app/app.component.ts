@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'my application';
+  autor = 'Diana Leon';
+  count = 0;
+  imageSource='./../favicon.ico';
 }
