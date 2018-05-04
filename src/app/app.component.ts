@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'my application';
   autor = 'Diana Leon';
   count = 0;
-  imageSource='../../favicon.ico';
+  imageSource='https://cdn.pixabay.com/photo/2018/04/21/20/23/tulips-3339416_960_720.jpg';
   enable='true';
   
 }
